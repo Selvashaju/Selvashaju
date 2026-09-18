@@ -82,16 +82,8 @@ SENTINEL-VF is a digital forensic platform designed to support the acquisition, 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Selvashaju&show_icons=true&hide_border=true&count_private=true"
-    alt="Shaju's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvashaju&layout=compact&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Selvashaju&show_icons=true&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Selvashaju&layout=compact&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
 ---
