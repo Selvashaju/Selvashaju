@@ -96,3 +96,16 @@ SENTINEL-VF is a digital forensic platform designed to support the acquisition, 
     alt="GitHub Streak"
   />
 </p>
+
+---
+
+## 🐍 Contribution Journey
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
