@@ -28,73 +28,51 @@ Currently exploring:
 
 ---
 
-## 🛠️ Skills & Technologies
-
-### Programming
-- Python
-
-### Cybersecurity & Forensics
-- Cybersecurity
-- Digital Forensics
-- Network Security
-- Digital Investigation
-
-### Tools
-- Wireshark
-- Nessus
-- FFmpeg
-- Git
-- GitHub
-- Linux
-
----
-
 ## 🚀 Featured Project
 
-### SENTINEL-VF
+### 🔐 SENTINEL-VF
 
 **Multi-Vendor DVR/NVR Forensic Analysis Tool**
 
-A forensic platform focused on the acquisition, recovery, analysis, and investigation of surveillance video evidence from different DVR/NVR vendors.
+SENTINEL-VF is a digital forensic platform designed to support the acquisition, recovery, and analysis of surveillance video evidence from different DVR/NVR vendors.
 
-**Focus Areas:**
-- DVR/NVR evidence analysis
-- Video recovery
-- Metadata extraction
-- Digital forensic investigation
-- Evidence integrity
-- Multi-vendor forensic analysis
+#### 🔎 Key Capabilities
 
----
+- 🎥 Multi-vendor DVR/NVR evidence analysis
+- 🔍 Video and metadata extraction
+- ♻️ Deleted footage recovery
+- 🕒 Timestamp normalization
+- 🔐 Evidence integrity and SHA-256 verification
+- 📋 Forensic evidence reporting
+- 🧩 Support for proprietary surveillance formats
 
-## 🎯 Current Focus
+#### 🛠️ Technology Focus
 
-I'm currently focusing on improving my knowledge in:
+`Python` `FFmpeg` `Digital Forensics` `Video Analysis` `SHA-256` `DVR/NVR Forensics`
 
-**Cybersecurity | Digital Forensics | Security Tools | Forensic Investigation**
-
----
-
-## 📚 Learning
-
-- Python for Security
-- Digital Forensics
-- Network Analysis
-- Evidence Handling
-- Security Investigation
+> **Project Focus:** Building a practical forensic workflow for surveillance evidence investigation.
 
 ---
 
-## 📫 Connect With Me
+## 🛠️ Skills & Technologies
 
-<p align="center">
-  <a href="https://github.com/Selvashaju">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
+### 💻 Programming
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
----
+### 🔐 Cybersecurity & Digital Forensics
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+</p>
 
-<p align="center">
-  <i>Learning • Building • Securing 🔐</i>
+### 🧰 Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge&logo=tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
 </p>
