@@ -1,14 +1,20 @@
-<h1 align="center">Hi 👋, I'm Shaju</h1>
+<div align="center">
 
-<h3 align="center">
-Cybersecurity & Digital Forensics Student
-</h3>
+# 👋 Hi, I'm Shaju
 
-<p align="center">
+### 🔐 Cybersecurity & Digital Forensics Student
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&center=true&vCenter=true&width=700&height=50&lines=Cybersecurity+%7C+Digital+Forensics;Security+Analysis+%7C+Digital+Investigation;Building+Practical+Security+Solutions" alt="Typing SVG" />
+</p>
+
+<p>
   <a href="https://github.com/Selvashaju">
     <img src="https://img.shields.io/badge/GitHub-Selvashaju-black?style=for-the-badge&logo=github" />
   </a>
 </p>
+
+</div>
 
 ---
 
